@@ -1,0 +1,3 @@
+class CreateUsersTable
+  
+end
